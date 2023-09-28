@@ -42,6 +42,7 @@ No desenvolvimento do projeto foi feito:
 
 ## Estrutura do Projeto 
 
+```
 ├── LICENSE
 ├── README.md               <- README.md com principais informações do projeto.
 ├── data
@@ -49,7 +50,7 @@ No desenvolvimento do projeto foi feito:
 │   └── raw                 <- Base de dados bruta (original).
 ├── notebooks               <- Jupyter notebook contendo toda a manipulação de dados e modelagem.
 ├── requisitos              <- Todas as bibiliotecas utilizadas (em cada versão). Arquivo gerado com 'pip freeze > requirements.txt'
-
+```
 
 
 
