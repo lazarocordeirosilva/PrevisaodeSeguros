@@ -17,5 +17,10 @@ Para utilizar este projeto, é necessário clonar o repositório
 git clone https://github.com/lazarocordeirosilva/PrevisaodeSeguros.git
 ```
 
+Após isso, você pode instalar os pacotes nas versões utilizadas
+```
+pip install -r requirements.txt
+```
+
 
 
