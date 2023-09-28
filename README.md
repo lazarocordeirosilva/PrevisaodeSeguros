@@ -1,1 +1,2 @@
-# PrevisaodeSeguros
+# *Previsão de cobrança de seguros*
+O presente projeto apresenta uma base de dados contendo informações acerca de planos de saúde. Este trabalho tem sua utilidade decorrente do fato de que, para consolidar sua lucratividade, é necessário que uma seguradora de saúde arrecade mais prêmios do que gasta com seus segurados. Nesse sentido, há uma demanda pela construção de modelos de Machine Learning com capacidade de realizar predições acuradas acerca dos gastos médicos que cada beneficiário pode apresentar.
