@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ```
 
 ## Processamento
-No desenvolvimento do projeto foi feito:
+Estão presentes no desenvolvimento do projeto as seguintes etapas:
 * EDA
 * Codificação de Variáveis
 * Feature Scaling
