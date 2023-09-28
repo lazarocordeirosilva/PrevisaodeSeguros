@@ -5,7 +5,7 @@ O presente projeto apresenta uma base de dados contendo informações acerca de 
 
 A base de dados utilizada é apresentada no livro "Machine Learning with R" de Brett Lantz, disponível [aqui](https://github.com/stedy/Machine-Learning-with-R-datasets).
 
-## * Objetivo *
+## *Objetivo*
 O objetivo deste projeto é construir um modelo de Machine Learning que seja capaz de resolver o problema de regressão relacionado à previsão dos gastos de saúde que um segurado pode apresentar, tendo como base suas características.
 
 ## *Requisitos* 
