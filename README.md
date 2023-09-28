@@ -1,3 +1,5 @@
+![healthinsurance](https://github.com/lazarocordeirosilva/PrevisaodeSeguros/assets/132832478/ffca5ae5-b468-4236-9017-db62c86aae2b)
+
 # *Previsão de Cobrança de Seguros*
 O presente projeto apresenta uma base de dados contendo informações acerca de planos de saúde. Este trabalho tem sua utilidade decorrente do fato de que, para consolidar sua lucratividade, é necessário que uma seguradora de saúde arrecade mais prêmios do que gasta com seus segurados. Nesse sentido, há uma demanda pela construção de modelos de Machine Learning com capacidade de realizar predições acuradas acerca dos gastos médicos que cada beneficiário pode apresentar. Neste trabalho foram utilizados modelos cuja proposta reside na resolução de um problema de regressão. 
 
